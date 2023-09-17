@@ -1,1 +1,1 @@
-# entity-resolution
+# Entity Resolution - Identifying Real-World Entities in Noisy Data
